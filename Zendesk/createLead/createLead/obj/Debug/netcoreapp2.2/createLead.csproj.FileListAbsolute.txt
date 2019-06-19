@@ -1,0 +1,11 @@
+C:\Users\Jonas\Desktop\gitProj\Email_Script\Zendesk\createLead\createLead\bin\Debug\netcoreapp2.2\createLead.deps.json
+C:\Users\Jonas\Desktop\gitProj\Email_Script\Zendesk\createLead\createLead\bin\Debug\netcoreapp2.2\createLead.runtimeconfig.json
+C:\Users\Jonas\Desktop\gitProj\Email_Script\Zendesk\createLead\createLead\bin\Debug\netcoreapp2.2\createLead.runtimeconfig.dev.json
+C:\Users\Jonas\Desktop\gitProj\Email_Script\Zendesk\createLead\createLead\bin\Debug\netcoreapp2.2\createLead.dll
+C:\Users\Jonas\Desktop\gitProj\Email_Script\Zendesk\createLead\createLead\bin\Debug\netcoreapp2.2\createLead.pdb
+C:\Users\Jonas\Desktop\gitProj\Email_Script\Zendesk\createLead\createLead\obj\Debug\netcoreapp2.2\createLead.csprojAssemblyReference.cache
+C:\Users\Jonas\Desktop\gitProj\Email_Script\Zendesk\createLead\createLead\obj\Debug\netcoreapp2.2\createLead.csproj.CoreCompileInputs.cache
+C:\Users\Jonas\Desktop\gitProj\Email_Script\Zendesk\createLead\createLead\obj\Debug\netcoreapp2.2\createLead.AssemblyInfoInputs.cache
+C:\Users\Jonas\Desktop\gitProj\Email_Script\Zendesk\createLead\createLead\obj\Debug\netcoreapp2.2\createLead.AssemblyInfo.cs
+C:\Users\Jonas\Desktop\gitProj\Email_Script\Zendesk\createLead\createLead\obj\Debug\netcoreapp2.2\createLead.dll
+C:\Users\Jonas\Desktop\gitProj\Email_Script\Zendesk\createLead\createLead\obj\Debug\netcoreapp2.2\createLead.pdb

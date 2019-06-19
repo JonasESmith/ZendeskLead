@@ -1,0 +1,1 @@
+curl -v -X GET https://api.{AppName}.com/v2/deals \ -H "Accept: application/json" \ -H "Authorization: Bearer {Access Token}" 
